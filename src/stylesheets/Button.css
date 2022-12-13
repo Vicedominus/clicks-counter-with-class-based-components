@@ -1,0 +1,19 @@
+button {
+    width: 100px;
+    height: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    color: #61DBFB;
+    background-color: black;
+    border: 2px solid #61DBFB;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+    font-weight: 500;
+    color: black;
+    background-color: #61DBFB;
+    border: 2px solid black;  
+}
